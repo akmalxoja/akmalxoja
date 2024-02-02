@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akmalxo'ja</h1>
+[<h1 align="center">Hi 👋, I'm Akmalxo'ja</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akmalxoja&label=Profile%20views&color=0e75b6&style=flat" alt="akmalxoja" /> </p>
 
@@ -15,3 +15,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akmalxoja&show_icons=true&locale=en" alt="akmalxoja" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akmalxoja&" alt="akmalxoja" /></p>
+](https://www.google.com/search?q=leetcode&oq=leetcode+&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgwIARAAGEMYgAQYigUyDAgCEAAYQxiABBiKBTIGCAMQRRg8MgYIBBBFGDwyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQg4NDk1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)https://www.google.com/search?q=leetcode&oq=leetcode+&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgwIARAAGEMYgAQYigUyDAgCEAAYQxiABBiKBTIGCAMQRRg8MgYIBBBFGDwyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQg4NDk1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
