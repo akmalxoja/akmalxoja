@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akmalxo'ja</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akmalxoja&label=Profile%20views&color=0e75b6&style=flat" alt="akmalxoja" /> </p>
 
-- 🌱 I’m currently learning **.Net C#**
+- 🌱 I’m currently learning **.Net  ASPI Net Core**
 
 - 📫 How to reach me **akmalxojasharifxojayev@gmail.com**
 
